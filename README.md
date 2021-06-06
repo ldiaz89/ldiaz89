@@ -18,19 +18,10 @@ Hi guys, I'm **Luis Diaz**, a **Full Stack Web Developer** .
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Projects:**
-- <a href="https://heuristic-goldwasser-072ca6.netlify.app/">
-Football Memories App 
-- </a>
-- <a href="https://ldiaz-chat-app.herokuapp.com/">
-Chat App 
-</a>
-- <a href="https://ldiaz-wheather-app.herokuapp.com/
-">
-Wheather App 
-</a>
-- <a href="https>//www.gtausacargo.com">
-GTA USA CARG WEB SITE 
-</a>
+* <a href="https://heuristic-goldwasser-072ca6.netlify.app/">Football Memories App </a>
+* <a href="https://ldiaz-chat-app.herokuapp.com/">Chat App </a>
+* <a href="https://ldiaz-wheather-app.herokuapp.com/">Wheather App</a>
+* <a href="https>//www.gtausacargo.com">GTA USA CARG WEB SITE</a>
 
 
 
