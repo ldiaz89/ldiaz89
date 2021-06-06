@@ -21,7 +21,7 @@ Hi guys, I'm **Luis Diaz**, a **Full Stack Web Developer** .
 - <a href="https://heuristic-goldwasser-072ca6.netlify.app/">
 Football Memories App 
 - </a>
-<a href="https://ldiaz-chat-app.herokuapp.com/">
+- <a href="https://ldiaz-chat-app.herokuapp.com/">
 Chat App 
 </a>
 - <a href="https://ldiaz-wheather-app.herokuapp.com/
